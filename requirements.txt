@@ -1,4 +1,16 @@
 
 python-dotenv
+python-docx
+unstructured
 openai
 numpy
+langchain-community
+langchain-openai
+langchain-chroma
+langchain
+langsmith
+langchain-core
+langchain-classic
+langchain-text-splitters
+tiktoken
+chromadb
